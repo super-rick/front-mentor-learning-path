@@ -28,7 +28,6 @@ body {
   background-color: var(--slate-300);
 }
 .card {
-  flex-direction: column;
   background-color: white;
   padding: 16px;
   border-radius: 20px;

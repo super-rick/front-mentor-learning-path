@@ -25,8 +25,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://github.com/super-rick/front-mentor-learning-path/tree/main/01-qr-code-component-main
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-page-use-flex-box-2dWaY5qatr
 - Live Site URL: https://super-rick.github.io/front-mentor-learning-path/01-qr-code-component-main
+- Repository : https://github.com/super-rick/front-mentor-learning-path/tree/main/01-qr-code-component-main
 
 ## My process
 
@@ -51,8 +52,8 @@ Github pages actions
 
 ## Author
 
-- Website - [Super Rick](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Super Rick](https://github.com/super-rick)
+- Frontend Mentor - [@super-rick](https://www.frontendmentor.io/profile/super-rick)
 
 ## Acknowledgments
 
